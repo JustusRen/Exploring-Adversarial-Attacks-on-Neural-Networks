@@ -3,4 +3,5 @@
 /ImageNet/*
 /.ipynb_checkpoints/*
 /ImageNet_Workshop/*
-
+/ImageNet - Copy/*
+*.json
