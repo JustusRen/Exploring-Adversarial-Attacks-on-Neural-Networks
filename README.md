@@ -1,5 +1,5 @@
 # Exploring-Adversarial-Attacks-on-Neural-Networks
-Using the code in this repository, adversarial examples can be generated using DLFuzz [1]. Using Grad-CAM [2], these samples are analyzed and structural vulnerabilities within the architecture can be located. 
+Using the code in this repository, adversarial examples can be generated using DLFuzz [1]. Using Grad-CAM [2], these samples are analyzed and structural vulnerabilities within the architecture of a deep neural network (DNN) can be located. 
 <br />
 The code from DLFuzz originated in the following repository: https://github.com/turned2670/DLFuzz
 <br />
