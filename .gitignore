@@ -5,3 +5,7 @@
 /ImageNet_Workshop/*
 /ImageNet - Copy/*
 *.json
+train/
+val/
+venv/
+*.zip
